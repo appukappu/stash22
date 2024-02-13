@@ -1,3 +1,6 @@
 public class chicken{
 string chandu;
 }
+public string appu{
+return "appu";
+}
